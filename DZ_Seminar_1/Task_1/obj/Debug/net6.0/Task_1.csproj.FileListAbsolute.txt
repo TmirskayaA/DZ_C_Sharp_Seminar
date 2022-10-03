@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\bin\Debug\net6.0\Task_1.exe
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\bin\Debug\net6.0\Task_1.deps.json
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\bin\Debug\net6.0\Task_1.dll
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\bin\Debug\net6.0\Task_1.pdb
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\Task_1.dll
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\Task_1.pdb
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\Menu\GEEKBrains\ДЗ\DZ_C#\DZ_Seminar_1\Task_1\obj\Debug\net6.0\ref\Task_1.dll
